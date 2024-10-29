@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mavee (a.k.a. pythonkage on the web)!
+# 👋 Hi, I'm Mavee !
 
 Welcome to my GitHub profile! I'm a **Frappe ERPNext developer** from Pakistan with over 5 years of experience in building efficient, scalable solutions for businesses. My goal is to combine my technical expertise with my entrepreneurial spirit to one day launch my own software house. Here, you’ll find projects, tech explorations, and a glimpse into my world.
 
@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I'm a **Frappe ERPNext developer** from Pakistan w
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/ameer-muavia-shah/) - Connect for professional inquiries
-- [Reddit](https://www.reddit.com/user/pythonkage) - u/pythonkage
 - [Email](mailto:mavee.shah@hotmail.com) - Send me an email to collaborate!
 
 ## 🚀 Featured Projects
@@ -39,7 +38,7 @@ Welcome to my GitHub profile! I'm a **Frappe ERPNext developer** from Pakistan w
 ## 💡 Fun Facts
 
 - I’m a huge fan of anime and manga, with a particular love for series that explore complex worlds.
-- **Dream Car**: A Honda Accord from the 2000-2009 era, preferably with a sunroof. 
+- **Dream Car**: A Honda Accord from the 2002-2009 era, preferably with a sunroof. 
 - **Coding Philosophy**: Clean code > quick fixes. Dynamic solutions > hardcoding.
 
 Thanks for stopping by my profile! Feel free to explore my repositories or reach out if you want to chat tech, anime, or potential collaborations.
