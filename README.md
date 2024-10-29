@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Frappe ERPNext developer** from Pakistan w
 ## 🌟 About Me
 
 - 💼 **ERPNext Developer** | **Frappe Framework Enthusiast**
-- 🌍 **Location**: Murree, Pakistan 🇵🇰
+- 🌍 **Location**: Islamabad, Pakistan 🇵🇰
 - 🎯 **Goal**: Build my own software house
 - 🎥 **Interests**: Anime, Manga, Chess, and Coding
 - 🎮 **On the Side**: Working towards Twitch streaming, where I’ll share some of my coding journey and play chess
