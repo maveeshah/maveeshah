@@ -1,58 +1,83 @@
 # 👋 Hi, I'm **Ameer Muavia Shah**
 
-Welcome to my GitHub!
-I'm a **Frappe + ERPNext Developer** from **Islamabad, Pakistan 🇵🇰**, with over **5 years of experience** building clean, scalable business systems. My focus lies in automation, process optimization, and creating efficient ERP solutions that actually *make work easier*.
+I design and build **ERP systems that eliminate operational friction** and help businesses scale with clarity.
 
-My long-term goal? To build a **modern software house** that blends technical excellence with product-driven creativity.
+Based in **Islamabad, Pakistan 🇵🇰**, I specialize in **Frappe & ERPNext**, with 5+ years of experience delivering production-grade systems focused on **automation, performance, and maintainability**.
 
----
+I’m not just writing features—I’m engineering **business systems that compound efficiency over time**.
 
-## 🌟 About Me
-
-* 💼 **ERPNext Developer** | **Frappe Framework Specialist**
-* 🧠 Skilled in designing modular, maintainable systems and custom integrations
-* 🎯 **Goal**: Launch a software house that scales globally
-* 🎥 **Hobbies**: Anime, Manga, Chess, and building side projects for fun
-* ♟️ **Currently Exploring**: Twitch streaming my chess and coding sessions
+My long-term goal is to build a **product-driven software house** and achieve **financial independence through scalable systems and disciplined investing**.
 
 ---
 
-## 🔧 Skills & Tech Stack
+## 🧠 About Me
 
-**Languages**
+- 💼 **ERPNext Developer** · **Frappe Framework Specialist**
+- 🏗️ Strong focus on **system architecture, modular design, and long-term maintainability**
+- ⚙️ I prioritize **automation over manual workflows**
+- 📊 Think in terms of **systems, not scripts**
+- 🎯 Building toward a **globally scalable software business**
+- ♟️ Exploring **chess + coding streams** as a creative outlet
+
+---
+
+## 🔧 Tech Stack
+
+### **Languages**
 `Python` · `JavaScript` · `SQL`
 
-**Frameworks**
+### **Frameworks**
 `Frappe` · `ERPNext` · `React`
 
-**Tools & Platforms**
-`Git` · `Docker` · `wkhtmltopdf` · `PostgreSQL` · `VS Code`
-
-**Core Strengths**
-✅ Custom ERPNext App Development
-✅ API & Integration Design
-✅ Report Building & Data Automation
-✅ Performance Optimization
+### **Tools & Platforms**
+`Docker` · `Git` · `PostgreSQL` · `wkhtmltopdf` · `VS Code`
 
 ---
 
-## 📫 Let’s Connect
+## 🚀 What I Do
 
-* [💼 LinkedIn](https://www.linkedin.com/in/ameer-muavia-shah/) – Professional connections
-* [📧 Email](mailto:mavee.shah@hotmail.com) – Collaborations or consulting
-
----
-
-## 💡 Fun Facts
-
-* 🧩 **Philosophy**: *Clean, modular code > quick hacks*
-* 🚗 **Dream Car**: Honda Accord CL9 (2002–2009, UK model)
-* ⚡ **Belief**: Software should *adapt to humans*, not the other way around
-* 🎬 Big fan of story-driven anime and deep world-building
+- Build **custom ERPNext applications** tailored to business workflows  
+- Architect **scalable backend systems using Frappe**  
+- Design and implement **API integrations & automation pipelines**  
+- Develop **high-performance reports and dashboards**  
+- Optimize systems for **speed, reliability, and low maintenance overhead**
 
 ---
 
-### ✨ Thanks for stopping by!
+## 📈 Current Focus
 
-Feel free to explore my repositories or reach out if you want to discuss tech, anime, or new ideas.
-Let’s build something meaningful together.
+- Building **long-term wealth through disciplined investing (PSX + real assets)**  
+- Moving toward **productized ERP solutions instead of pure client work**  
+- Designing systems that generate **recurring value, not one-off delivery**
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ameer-muavia-shah/
+- 📧 Email: mavee.shah@hotmail.com
+
+---
+
+## ⚡ Philosophy
+
+- 🧩 *Clean, modular systems outlast quick hacks*  
+- ⚙️ *Software should adapt to business—not the other way around*  
+- 📊 *Efficiency is a feature, not a side effect*  
+- 📈 *Small, consistent improvements compound into large outcomes*
+
+---
+
+## 🎯 Personal Notes
+
+- 🚗 Preferred machine: **Honda Accord CL9 (Euro R era)**  
+- 🎬 Into **story-driven anime and deep world-building**  
+- 🧠 Naturally biased toward **optimization, systems, and long-term thinking**
+
+---
+
+### 🤝 If you're building something serious
+
+I’m interested in **high-impact systems, product thinking, and long-term value creation**.
+
+If that aligns, let’s connect.
