@@ -1,94 +1,27 @@
-# 👋 Hi, I'm **Ameer Muavia Shah**
+# Ameer Muavia Shah
 
-I design and build **scalable business systems and backend platforms** that reduce operational overhead and unlock growth.
+**Backend and product engineer** based in Islamabad, Pakistan.
 
-Based in **Islamabad, Pakistan 🇵🇰**, I work across **Frappe/ERPNext, FastAPI, and modern backend architectures**, with 5+ years of experience delivering **production-grade systems, APIs, and automation pipelines**.
+I build software that helps people run their work: ERP workflows, APIs, automation, and the systems behind web and mobile products. I have 5+ years of experience with Frappe/ERPNext and Python, and I care about making software reliable, understandable, and useful after launch.
 
-I operate at the intersection of **ERP systems, custom backend services, and product engineering**—not just features, but systems that scale.
+## What I work on
 
-My long-term goal is to build a **product-driven software house** and achieve **financial independence through scalable technology and disciplined execution**.
+- **Business systems:** Frappe and ERPNext customizations that fit how teams actually work.
+- **Backend services:** FastAPI applications, PostgreSQL data models, integrations, and background jobs.
+- **Product foundations:** APIs and shared services for web and mobile apps, with attention to permissions, data integrity, and maintainability.
+- **Automation:** Tools that reduce repetitive work and make operations easier to follow.
 
----
+Lately, I’ve been working on products for independent educators, online sellers, and everyday financial planning.
 
-## 🧠 About Me
+## Tools I use
 
-- 💼 **Backend & Systems Engineer** (Frappe · ERPNext · FastAPI)
-- 🏗️ Focused on **clean architecture, modular systems, and long-term maintainability**
-- ⚙️ Strong bias toward **automation and process optimization**
-- 📊 I think in **systems, data flows, and constraints—not just code**
-- 🎯 Building toward a **globally scalable software business**
-- ♟️ Exploring **chess + coding streams**
+`Python` · `JavaScript` · `SQL` · `Frappe/ERPNext` · `FastAPI` · `React` · `PostgreSQL` · `Redis` · `Docker` · `Git`
 
----
+## Beyond work
 
-## 🔧 Tech Stack
+I enjoy chess, story-driven anime, and the Honda Accord CL9. I’m interested in building products that people can own and depend on for years.
 
-### **Languages**
-`Python` · `JavaScript` · `SQL`
+## Get in touch
 
-### **Frameworks & Backend**
-`Frappe` · `ERPNext` · `FastAPI` · `React`
-
-### **Systems & Tools**
-`Docker` · `PostgreSQL` · `Redis` · `wkhtmltopdf` · `Git` · `VS Code`
-
----
-
-## 🚀 What I Build
-
-- **Custom ERP Systems** using Frappe/ERPNext aligned to real business workflows  
-- **High-performance APIs** with FastAPI for mobile/web integrations  
-- **Automation pipelines** that eliminate repetitive operations  
-- **Data-heavy systems** with optimized reporting and dashboards  
-- **Scalable backend architectures** for multi-surface products (ERP + mobile + public apps)
-
----
-
-## 📦 Product Thinking
-
-I’m actively moving from **client work → productized systems**.
-
-Current direction includes:
-- Backend platforms supporting **mobile-first applications**
-- Systems that combine **ERP + user-facing apps (e.g., health, tracking, engagement platforms)**
-- Architectures designed for **reuse, scalability, and recurring value**
-
----
-
-## 📈 Current Focus
-
-- Building **long-term wealth (PSX + real assets)** with disciplined allocation  
-- Designing systems that generate **recurring value instead of one-off delivery**  
-- Moving toward **ownership (products, platforms, equity)** over pure service work  
-
----
-
-## 📫 Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/ameer-muavia-shah/
-- 📧 Email: mavee.shah@hotmail.com
-
----
-
-## ⚡ Philosophy
-
-- 🧩 *Clean systems outlast quick wins*  
-- ⚙️ *Software should adapt to workflows—not force them*  
-- 📊 *Efficiency is engineered, not accidental*  
-- 📈 *Compounding applies to systems, code, and capital*
-
----
-
-## 🎯 Personal Notes
-
-- 🚗 **Honda Accord CL9 (Euro R era)**  
-- 🎬 Into **story-driven anime and deep world-building**  
-- 🧠 Naturally wired for **optimization, systems, and long-term thinking**
-
----
-
-### 🤝 If you're building something meaningful
-
-I’m interested in **serious systems, scalable products, and long-term value creation**.
-
-If that’s your direction, we should talk.
+- [LinkedIn](https://www.linkedin.com/in/ameer-muavia-shah/)
+- [Email](mailto:mavee.shah@hotmail.com)
