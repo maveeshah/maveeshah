@@ -6,7 +6,7 @@ I’m a backend and product engineer in Islamabad, Pakistan. For more than five 
 
 I enjoy the part of engineering where a messy workflow becomes a clear data model, a dependable API, and a tool people can use without thinking about the machinery behind it.
 
-[LinkedIn](https://www.linkedin.com/in/ameer-muavia-shah/) · [Email](mailto:mavee.shah@hotmail.com) · [Public repositories](https://github.com/maveeshah?tab=repositories)
+[Portfolio](https://maveeshah.github.io/) · [LinkedIn](https://www.linkedin.com/in/ameer-muavia-shah/) · [Email](mailto:mavee.shah@hotmail.com) · [Public repositories](https://github.com/maveeshah?tab=repositories)
 
 ## Experience
 
