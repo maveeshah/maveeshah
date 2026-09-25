@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ameer Muavia Shah — backend and product engineer</title>
+  <desc id="desc">An editorial dark banner with a connected workflow diagram.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111b2b"/>
+      <stop offset="1" stop-color="#1e3440"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7bc7ab"/>
+      <stop offset="1" stop-color="#c9a875"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <rect x="58" y="52" width="44" height="4" rx="2" fill="#7bc7ab"/>
+  <text x="116" y="58" fill="#9bd9c3" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3">BACKEND  /  SYSTEMS  /  PRODUCTS</text>
+  <text x="58" y="143" fill="#f5f4ed" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Ameer Muavia Shah</text>
+  <text x="60" y="187" fill="#c8d6d6" font-family="Arial, Helvetica, sans-serif" font-size="22">I make complex work feel simpler through software.</text>
+  <path d="M60 231H560" stroke="url(#line)" stroke-width="2"/>
+  <text x="60" y="262" fill="#9fb8b5" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1">ISLAMABAD, PAKISTAN</text>
+  <g fill="none" stroke="url(#line)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M792 103H897L937 150H1022"/>
+    <path d="M792 197H897L937 150"/>
+    <path d="M1022 150H1090"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="15" font-weight="700" letter-spacing="1">
+    <rect x="687" y="75" width="105" height="56" rx="12" fill="#253e46" stroke="#73baa2"/>
+    <text x="739.5" y="109" fill="#e4f4e9">WORKFLOW</text>
+    <rect x="687" y="169" width="105" height="56" rx="12" fill="#253e46" stroke="#73baa2"/>
+    <text x="739.5" y="203" fill="#e4f4e9">DATA</text>
+    <rect x="1022" y="122" width="112" height="56" rx="12" fill="#3b443f" stroke="#c9a875"/>
+    <text x="1078" y="156" fill="#f3e3c8">PRODUCT</text>
+  </g>
+  <circle cx="937" cy="150" r="7" fill="#d4b57f"/>
+</svg>
